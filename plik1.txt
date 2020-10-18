@@ -1,1 +1,1 @@
-cos
+System.out.println("cos");
